@@ -8,13 +8,13 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "ritwickdey.LiveServer"
+        "ms-vscode.live-preview"
       ]
     }
   },
   "portsAttributes": {
     "3000": {
-      "label": "Live Server"
+      "label": "Live Preview"
     }
   },
   "postAttachCommand": ". .devcontainer/welcome.sh"
